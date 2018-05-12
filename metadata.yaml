@@ -1,0 +1,37 @@
+_repo: The-Joyous-Adventures-of-Aristide-Pujol_26154
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ball, Alec
+    alias: Ball, Alec C.
+    gutenberg_agent_id: '9702'
+    url: http://www.gutenberg.org/2009/agents/9702
+covers:
+- cover_type: archival
+  image_path: 26154-h/images/imgcover.jpg
+creator:
+  author:
+    agent_name: Locke, William John
+    aliases:
+    - Locke, W. J. (William John)
+    - Locke, William J. (William John)
+    birthdate: 1863
+    deathdate: 1930
+    gutenberg_agent_id: '1324'
+    url: http://www.gutenberg.org/2009/agents/1324
+    wikipedia: http://en.wikipedia.org/wiki/William_John_Locke
+description: ''
+gutenberg_issued: '2008-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26154'
+  lccn: '12022809'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Adventure and adventurers -- Fiction'
+title: The Joyous Adventures of Aristide Pujol
+url: http://www.gutenberg.org/ebooks/26154
